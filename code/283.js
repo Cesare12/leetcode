@@ -22,7 +22,7 @@ var moveZeroes = function(nums) {
     for(let i in nums){
         if(nums[i]){
             [nums[i], nums[index]] = [nums[index], nums[i]];
-            ndex++;
+            index++;
         }
     }
 };
