@@ -24,5 +24,9 @@
 | 015  | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | Medium | [JavaScript](./code/lc1.java)
 | 016  | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  | Hard | [JavaScript](./code/lc1.java)
 | Hash Table  | 查找表  |  | 
-
-
+| Linked List  | 查找表  |  | 
+| Stack and Queue  | 栈 队列  |  | 
+| Binary Tree and Recursion  | 二叉树和递归  |  | 
+| Recurion and Backstracking  | 递归和回溯  |  | 
+| Dynamic Programming  | 动态规划  |  | 
+| Greedy Algorithms  | 贪心算法  |  | 
