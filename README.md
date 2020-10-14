@@ -9,6 +9,6 @@
 | Array  | 数组  |  | 
 | 001  | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy | [JavaScript](./code/lc1.java)
 
-
+| Hash Table  | 查找表  |  | 
 
 
