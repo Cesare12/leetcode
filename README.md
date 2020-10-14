@@ -8,3 +8,8 @@
 |----|----------|-----------|------|
 | 001  | [Two_Sum](https://leetcode.com/problems/two-sum/)  | Easy | [Java](./code/lc1.java)
 | 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java](./code/lc2.java)
+| 001  | [Two_Sum](https://leetcode.com/problems/two-sum/)  | Easy | [Java](./code/lc1.java)
+| 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java](./code/lc2.java)
+
+
+
