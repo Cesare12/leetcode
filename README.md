@@ -6,10 +6,9 @@
 
 | \# | Problems | Difficulty | Solution |
 |----|----------|-----------|------|
-| 001  | [Two_Sum](https://leetcode.com/problems/two-sum/)  | Easy | [Java](./code/lc1.java)
-| 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java](./code/lc2.java)
-| 001  | [Two_Sum](https://leetcode.com/problems/two-sum/)  | Easy | [Java](./code/lc1.java)
-| 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java](./code/lc2.java)
+| Array  | 数组  |  | 
+| 001  | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy | [JavaScript](./code/lc1.java)
+
 
 
 
