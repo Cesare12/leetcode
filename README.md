@@ -29,4 +29,9 @@
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
 | Recurion and Backstracking  | 递归和回溯  |  | 
 | Dynamic Programming  | 动态规划  |  | 
+| 001  | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)  | Medium | [JavaScript](./code/lc1.java)
+| 002  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | Medium | [JavaScript](./code/lc1.java)
+| 003  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)  | Medium | [JavaScript](./code/lc1.java)
+| 004  | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)  | Medium | [JavaScript](./code/lc1.java)
+| 005  | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  | Medium | [JavaScript](./code/lc1.java)
 | Greedy Algorithms  | 贪心算法  |  | 
