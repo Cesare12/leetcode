@@ -10,7 +10,7 @@
 | 001  | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy | [JavaScript](./code/283.js)
 | 002  | [27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy | [JavaScript](./code/lc1.java)
 | 003  | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy | [JavaScript](./code/283.js)
-| 004  | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | Medium | [JavaScript](./code/lc1.java)
+| 004  | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | Medium | [JavaScript](./code/27.js)
 | 005  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)  | Medium | [JavaScript](./code/lc1.java)
 | 006  | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  | Easy | [JavaScript](./code/lc1.java)
 | 007  | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)  | Medium | [JavaScript](./code/lc1.java)
