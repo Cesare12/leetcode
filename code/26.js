@@ -30,12 +30,15 @@ var removeDuplicates = function(nums) {
     return ++index;
 };
 
-var removeDuplicates = function(nums) {
-    let res = nums.reduce(
-        (index, cur) => {
-            if (nums[index] !== cur)
-                nums[++index] = cur;
-            return index
-        }, 0);
+var removeDuplicates = function (nums) {
+    let res = 0
+    if (nums.length > 0) {
+        res = nums.reduce(
+            (index, cur) => {
+                if (nums[index] !== cur)
+                    nums[++index] = cur;
+                return index
+            }, 0);
+    }
     return ++res;
 };
