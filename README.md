@@ -28,6 +28,7 @@
 | Stack and Queue  | 栈 队列  |  | 
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
 | Recurion and Backstracking  | 递归和回溯  |  | 
+| 001  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)
 | Dynamic Programming  | 动态规划  |  | 
 | 001  | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)  | Medium | [JavaScript](./code/343.js)
 | 002  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | Medium | [JavaScript](./code/279.js)
