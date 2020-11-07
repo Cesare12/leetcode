@@ -28,8 +28,11 @@
 | Stack and Queue  | 栈 队列  |  | 
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
 | Recurion and Backstracking  | 递归和回溯  |  | 
-| 001  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)| [Python](./code/77.py)
-| 002  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [JavaScript](./code/39.js)| [Python](./code/39.py)
+| 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [JavaScript](./code/77.js)|
+| 001  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  | Medium | [JavaScript](./code/77.js)|
+| 003  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)| [Python](./code/77.py)
+| 004  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [JavaScript](./code/39.js)| [Python](./code/39.py)
+| 005  | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)  | Medium | [JavaScript](./code/39.js)|
 | Dynamic Programming  | 动态规划  |  | 
 | 001  | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)  | Medium | [JavaScript](./code/343.js)
 | 002  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | Medium | [JavaScript](./code/279.js)
