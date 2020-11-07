@@ -4,8 +4,8 @@
 
 他是用C++做的，这里用JavaScript实现。
 
-|  | Problems | Difficulty | Solution |
-|----|----------|-----------|------|
+|  | Problems | Difficulty | Solution ||
+|----|----------|-----------|------|------|
 | Array  | 数组  |  | 
 | 001  | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy | [JavaScript](./code/283.js)
 | 002  | [27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy | [JavaScript](./code/27.js)
