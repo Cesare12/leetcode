@@ -31,8 +31,16 @@
 | 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [JavaScript](./code/77.js)|
 | 001  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  | Medium | [JavaScript](./code/77.js)|
 | 003  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)| [Python](./code/77.py)
-| 004  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [JavaScript](./code/39.js)| [Python](./code/39.py)
-| 005  | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)  | Medium | [JavaScript](./code/39.js)|
+| 004  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [JavaScript](./code/216.js)| [Python](./code/39.py)
+| 005  | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)  | Medium | [JavaScript](./code/216.js)|
+| 006  | [78. 子集](https://leetcode-cn.com/problems/subsets/)  | Medium | [JavaScript](./code/78.js)|
+| 007  | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | Medium | [JavaScript](./code/90.js)|
+| 008  | [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)  | Easy | [JavaScript](./code/401.js)|
+| 009  | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)  | Medium | [JavaScript](./code/79.js)|
+| 010  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  | Medium | [JavaScript](./code/200.js)|
+| 011  | [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  | Medium | [JavaScript](./code/130.js)|
+| 012  | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | Medium | [JavaScript](./code/417.js)|
+| 013  | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)  | Hard | [JavaScript](./code/51.js)|
 | Dynamic Programming  | 动态规划  |  | 
 | 001  | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)  | Medium | [JavaScript](./code/343.js)
 | 002  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | Medium | [JavaScript](./code/279.js)
