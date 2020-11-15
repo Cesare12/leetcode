@@ -46,5 +46,7 @@
 | 002  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | Medium | [JavaScript](./code/279.js)
 | 003  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)  | Medium | [JavaScript](./code/91.js)
 | 004  | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)  | Medium | [JavaScript](./code/62.js)
-| 005  | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  | Medium | [JavaScript](./63/lc1.js)
+| 005  | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  | Medium | [JavaScript](./code/63.js)
 | Greedy Algorithms  | 贪心算法  |  | 
+| 001  | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)  | Easy | [JavaScript](./code/455.js)
+| 002  | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  | Easy | [JavaScript](./code/392.js)
