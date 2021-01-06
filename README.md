@@ -24,24 +24,24 @@
 | 015  | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | Medium | [JavaScript](./code/438.js)
 | 016  | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  | Hard | [JavaScript](./code/76.js)
 | Hash Table  | 查找表  |  | 
-| 001  | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | Easy | [JavaScript](./code/349.js)|
-| 002  | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | Easy | [JavaScript](./code/349.js)|
-| 003  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | Easy | [JavaScript](./code/242.js)|
-| 004  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)  | Easy | [JavaScript](./code/202.js)|
-| 005  | [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)  | Easy | [JavaScript](./code/290.js)|
-| 006  | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | Easy | [JavaScript](./code/205.js)|
-| 007  | [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)  | Medium | [JavaScript](./code/451.js)|
-| 008  | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)  | Easy | [JavaScript](./code/1.js)|
-| 009  | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | [JavaScript](./code/15.js)|
-| 010  | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)  | Medium | [JavaScript](./code/18.js)|
-| 011  | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  | Medium | [JavaScript](./code/16.js)|
-| 012  | [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)  | Medium | [JavaScript](./code/454.js)|
-| 013  | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | [JavaScript](./code/49.js)|
-| 014  | [447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)  | Medium | [JavaScript](./code/447.js)|
-| 015  | [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)  | Hard | [JavaScript](./code/149.js)|
-| 016  | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)  | Easy | [JavaScript](./code/219.js)|
-| 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | [JavaScript](./code/217.js)|
-| 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | [JavaScript](./code/220.js)|
+| 001  | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | Easy | JavaScript(./code/349.js)|
+| 002  | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | Easy | JavaScript(./code/349.js)|
+| 003  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | Easy | JavaScript(./code/242.js)|
+| 004  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)  | Easy | JavaScript(./code/202.js)|
+| 005  | [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)  | Easy | JavaScript(./code/290.js)|
+| 006  | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | Easy | JavaScript(./code/205.js)|
+| 007  | [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)  | Medium | JavaScript(./code/451.js)|
+| 008  | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)  | Easy | JavaScript(./code/1.js)|
+| 009  | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | JavaScript(./code/15.js)|
+| 010  | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)  | Medium | JavaScript(./code/18.js)|
+| 011  | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  | Medium | JavaScript(./code/16.js)|
+| 012  | [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)  | Medium | JavaScript(./code/454.js)|
+| 013  | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | JavaScript(./code/49.js)|
+| 014  | [447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)  | Medium | JavaScript(./code/447.js)|
+| 015  | [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)  | Hard | JavaScript(./code/149.js)|
+| 016  | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)  | Easy | JavaScript(./code/219.js)|
+| 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | JavaScript(./code/217.js)|
+| 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | JavaScript(./code/220.js)|
 | Linked List  | 链表  |  | 
 | Stack and Queue  | 栈 队列  |  | 
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | JavaScript(./code/20.js)|
