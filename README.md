@@ -44,6 +44,9 @@
 | 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | [JavaScript](./code/220.js)|
 | Linked List  | 链表  |  | 
 | Stack and Queue  | 栈 队列  |  | 
+| 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | JavaScript(./code/20.js)|
+| 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | JavaScript(./code/150.js)|
+| 003  | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path//)  | Medium | JavaScript(./code/71.js)|
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
 | Recurion and Backstracking  | 递归和回溯  |  | 
 | 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [JavaScript](./code/77.js)|
