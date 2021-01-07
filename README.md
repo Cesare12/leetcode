@@ -24,7 +24,7 @@
 | 015  | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | Medium | [JavaScript](./code/438.js)
 | 016  | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  | Hard | [JavaScript](./code/76.js)
 | Hash Table  | 查找表  |  | 
-| 001  | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | Easy | JavaScript(./code/349.js)|
+| 001  | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | Easy | [JavaScript](./code/349.js)|
 | 002  | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | Easy | JavaScript(./code/349.js)|
 | 003  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | Easy | JavaScript(./code/242.js)|
 | 004  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)  | Easy | JavaScript(./code/202.js)|
