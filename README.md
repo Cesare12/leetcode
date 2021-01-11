@@ -26,7 +26,7 @@
 | Hash Table  | 查找表  |  | 
 | 001  | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | Easy | [JavaScript](./code/349.js)|
 | 002  | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | Easy | [JavaScript](./code/350.js)|
-| 003  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | Easy | JavaScript(./code/242.js)|
+| 003  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | Easy | [JavaScript](./code/242.js)|
 | 004  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)  | Easy | JavaScript(./code/202.js)|
 | 005  | [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)  | Easy | JavaScript(./code/290.js)|
 | 006  | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | Easy | JavaScript(./code/205.js)|
