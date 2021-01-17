@@ -29,7 +29,7 @@
 | 003  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | Easy | [JavaScript](./code/242.js)|
 | 004  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)  | Easy | [JavaScript](./code/202.js)|
 | 005  | [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)  | Easy | [JavaScript](./code/290.js)|
-| 006  | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | Easy | JavaScript(./code/205.js)|
+| 006  | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | Easy | [JavaScript](./code/205.js)|
 | 007  | [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)  | Medium | JavaScript(./code/451.js)|
 | 008  | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)  | Easy | JavaScript(./code/1.js)|
 | 009  | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | JavaScript(./code/15.js)|
