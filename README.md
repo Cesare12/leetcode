@@ -33,7 +33,7 @@
 | 007  | [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)  | Medium | [JavaScript](./code/451.js)|
 | 008  | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)  | Easy | [JavaScript](./code/1.js)|
 | 009  | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | [JavaScript](./code/15.js)|
-| 010  | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)  | Medium | JavaScript(./code/18.js)|
+| 010  | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)  | Medium | [JavaScript](./code/18.js)|
 | 011  | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  | Medium | JavaScript(./code/16.js)|
 | 012  | [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)  | Medium | JavaScript(./code/454.js)|
 | 013  | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | JavaScript(./code/49.js)|
