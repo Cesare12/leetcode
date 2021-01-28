@@ -37,7 +37,7 @@
 | 011  | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  | Medium | [JavaScript](./code/16.js)|
 | 012  | [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)  | Medium | [JavaScript](./code/454.js)|
 | 013  | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | [JavaScript](./code/49.js)|
-| 014  | [447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)  | Medium | JavaScript(./code/447.js)|
+| 014  | [447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)  | Medium | [JavaScript](./code/447.js)|
 | 015  | [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)  | Hard | JavaScript(./code/149.js)|
 | 016  | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)  | Easy | JavaScript(./code/219.js)|
 | 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | JavaScript(./code/217.js)|
