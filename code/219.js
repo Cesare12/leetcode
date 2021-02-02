@@ -31,3 +31,23 @@ var containsNearbyDuplicate = function (nums, k) {
     }
     return false
 };
+
+
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {boolean}
+ */
+var containsNearbyDuplicate = function (nums, k) {
+    let record = new Set();
+    for (let i = 0; i < nums.length; i++) {
+        if (record.has(nums[i]))
+            return true
+
+        record.add(nums[i])
+
+        if (record.size == k + 1)
+            record.delete(nums[i - k])
+    }
+    return false
+};
