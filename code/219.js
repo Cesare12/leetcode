@@ -51,3 +51,21 @@ var containsNearbyDuplicate = function (nums, k) {
     }
     return false
 };
+
+
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {boolean}
+ */
+var containsNearbyDuplicate = function (nums, k) {
+    let record = new Map();
+    for (let i = 0; i < nums.length; i++) {
+        let tmp = record.get(nums[i]);
+        if (tmp !== undefined && i - tmp <= k) {
+            return true
+        }
+        record.set(nums[i], i)
+    }
+    return false
+};
