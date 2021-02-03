@@ -40,7 +40,7 @@
 | 014  | [447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)  | Medium | [JavaScript](./code/447.js)|
 | 015  | [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)  | Hard | [JavaScript](./code/149.js)|
 | 016  | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)  | Easy | [JavaScript](./code/219.js)|
-| 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | JavaScript(./code/217.js)|
+| 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | [JavaScript](./code/217.js)|
 | 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | JavaScript(./code/220.js)|
 | Linked List  | 链表  |  | 
 | Stack and Queue  | 栈 队列  |  | 
