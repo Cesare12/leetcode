@@ -47,6 +47,14 @@
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | JavaScript(./code/20.js)|
 | 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | JavaScript(./code/150.js)|
 | 003  | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path//)  | Medium | JavaScript(./code/71.js)|
+| 004  | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  | Medium | JavaScript(./code/144.js)|
+| 005  | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | Medium | JavaScript(./code/94.js)|
+| 006  | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)  | Medium | JavaScript(./code/145.js)|
+| 007  | [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)  | Medium | JavaScript(./code/341.js)|
+| 008  | [102. 二叉树的层序遍历径](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  | Medium | JavaScript(./code/102.js)|
+| 009  | [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)  | Easy | JavaScript(./code/107.js)|
+| 010  | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  | Medium | JavaScript(./code/103.js)|
+| 011  | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)  | Medium | JavaScript(./code/199.js)|
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
 | Recurion and Backstracking  | 递归和回溯  |  | 
 | 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | JavaScript(./code/46.js)|
