@@ -45,7 +45,7 @@
 | Linked List  | 链表  |  | 
 | Stack and Queue  | 栈 队列  |  | 
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [JavaScript](./code/20.js)|
-| 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | JavaScript(./code/150.js)|
+| 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | [JavaScript](./code/150.js)|
 | 003  | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path//)  | Medium | JavaScript(./code/71.js)|
 | 004  | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  | Medium | JavaScript(./code/144.js)|
 | 005  | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | Medium | JavaScript(./code/94.js)|
