@@ -53,3 +53,70 @@ var preorderTraversal = function (root) {
     traversal(root)
     return res
 };
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number[]}
+ */
+function Command(s, node) {
+    this.s = s;
+    this.node = node;
+}
+
+var preorderTraversal = function (root) {
+    let stack = [];
+    let res = [];
+    if (!root) return []
+    stack.push(new Command('go', root));
+
+    while (stack.length !== 0) {
+        let command = stack.pop();
+        if (command.s === 'print') {
+            res.push(command.node.val)
+        } else {
+            if (command.node.right)
+                stack.push(new Command('go', command.node.right))
+            if (command.node.left)
+                stack.push(new Command('go', command.node.left))
+            stack.push(new Command('print', command.node))
+        }
+    }
+    return res
+};
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number[]}
+ */
+var preorderTraversal = function(root) {
+    let res = [];
+    let stack = [];
+
+    if (root) stack.push(root)
+    while (stack.length > 0) {
+        const curNode = stack.pop()
+        res.push(curNode.val)
+
+        if (curNode.right !== null) {
+            stack.push(curNode.right)
+        }
+        if (curNode.left !== null) {
+            stack.push(curNode.left)
+        }
+    }
+    return res
+};
