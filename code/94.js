@@ -53,3 +53,40 @@ var inorderTraversal = function (root) {
     traversal(root)
     return res
 };
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+
+/**
+ * @param {TreeNode} root
+ * @return {number[]}
+ */
+function Command(s, node) {
+    this.s = s;
+    this.node = node;
+}
+var inorderTraversal = function (root) {
+    let res = [];
+    let stack = [];
+    if (!root) return []
+    stack.push(new Command('go', root));
+
+    while (stack.length !== 0) {
+        let command = stack.pop();
+        if (command.s === 'print') {
+            res.push(command.node.val)
+        } else {
+            if (command.node.right)
+                stack.push(new Command('go', command.node.right))
+            stack.push(new Command('print', command.node))
+            if (command.node.left)
+                stack.push(new Command('go', command.node.left))
+        }
+    }
+    return res
+};
