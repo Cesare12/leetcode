@@ -56,6 +56,13 @@
 | 010  | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  | Medium | JavaScript(./code/103.js)|
 | 011  | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)  | Medium | JavaScript(./code/199.js)|
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
+| 001  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | Easy | JavaScript(./code/104.js)|
+| 002  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)  | Easy | JavaScript(./code/111.js)|
+| 003  | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  | Easy | JavaScript(./code/226.js)|
+| 004  | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)  | Easy | JavaScript(./code/100.js)|
+| 005  | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  | Easy | JavaScript(./code/101.js)|
+| 006  | [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  | Medium | JavaScript(./code/222.js)|
+| 007  | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  | Easy | JavaScript(./code/110.js)|
 | Recurion and Backstracking  | 递归和回溯  |  | 
 | 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | JavaScript(./code/46.js)|
 | 001  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  | Medium | JavaScript(./code/47.js)|
