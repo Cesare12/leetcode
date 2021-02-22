@@ -81,3 +81,55 @@ NestedIterator.prototype.next = function () {
  * var i = new NestedIterator(nestedList), a = [];
  * while (i.hasNext()) a.push(i.next());
 */
+
+
+
+/**
+ * @constructor
+ * @param {NestedInteger[]} nestedList
+ */
+var NestedIterator = function (nestedList) {
+    this.stack = [];
+    this.res = [];
+
+    if (!nestedList) return []
+
+    this.stack.push({ s: 'list', val: nestedList })
+
+    while (this.stack.length !== 0) {
+        const { s, val } = this.stack.pop();
+        if (s === 'integer') {
+            this.res.unshift(val)
+        } else {
+            for (let i = 0; i < val.length; i++) {
+                if (val[i].isInteger()) {
+                    this.stack.push({ s: 'integer', val: val[i].getInteger() })
+                } else {
+                    this.stack.push({ s: 'list', val: val[i].getList() })
+                }
+            }
+        }
+    }
+};
+
+/**
+ * @this NestedIterator
+ * @returns {boolean}
+ */
+NestedIterator.prototype.hasNext = function () {
+    return this.res.length > 0;
+};
+
+/**
+ * @this NestedIterator
+ * @returns {integer}
+ */
+NestedIterator.prototype.next = function () {
+    return this.res.shift();
+};
+
+/**
+ * Your NestedIterator will be called like this:
+ * var i = new NestedIterator(nestedList), a = [];
+ * while (i.hasNext()) a.push(i.next());
+*/
