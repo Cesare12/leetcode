@@ -38,3 +38,26 @@ var combine = function (n, k) {
     back(1, []);
     return res
 };
+
+/**
+ * @param {number} n
+ * @param {number} k
+ * @return {number[][]}
+ */
+var combine = function (n, k) {
+    const res = [];
+    function back(start, cur) {
+        if (cur.length === k) {
+            res.push(cur.slice())
+            return
+        }
+        for (let i = start; i <= n - (k - cur.length) + 1; i++) {
+            cur.push(i)
+            back(i + 1, cur);
+            cur.pop()
+        }
+    }
+    back(1, []);
+    return res
+};
+
