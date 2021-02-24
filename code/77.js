@@ -46,7 +46,7 @@ var combine = function (n, k) {
  */
 var combine = function (n, k) {
     const res = [];
-    function back(start, cur) {
+    const back = (start, cur) => {
         if (cur.length === k) {
             res.push(cur.slice())
             return
