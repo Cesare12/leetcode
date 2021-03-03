@@ -68,7 +68,7 @@
 | 001  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  | Medium | JavaScript(./code/47.js)|
 | 003  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)| [Python](./code/77.py)
 | 004  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [JavaScript](./code/39.js)| [Python](./code/39.py)
-| 005  | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)  | Medium | JavaScript(./code/216.js)|
+| 005  | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)  | Medium | [JavaScript](./code/216.js)|
 | 006  | [78. 子集](https://leetcode-cn.com/problems/subsets/)  | Medium | JavaScript(./code/78.js)|
 | 007  | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | Medium | JavaScript(./code/90.js)|
 | 008  | [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)  | Easy | JavaScript(./code/401.js)|
