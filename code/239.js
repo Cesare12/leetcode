@@ -60,6 +60,7 @@ var maxSlidingWindow = function (nums, k) {
  const res = [nums[q[0]]];
  const len = nums.length - k;
  for(let i=1;i<=len;i++){
+  if(q[0] <i) q.shift(q[0])
    while(nums[q.slice(-1)] < nums[i+k-1] && q.length !== 0){q.pop()}
    if(q.length<=k) q.push(i+k-1)
   
