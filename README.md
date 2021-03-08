@@ -23,7 +23,6 @@
 | 014  | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | Medium | [JavaScript](./code/3.js)
 | 015  | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | Medium | [JavaScript](./code/438.js)
 | 016  | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  | Hard | [JavaScript](./code/76.js)
-| 017  | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)  | Hard | [JavaScript](./code/239.js)
 | Hash Table  | 查找表  |  | 
 | 001  | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | Easy | [JavaScript](./code/349.js)|
 | 002  | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | Easy | [JavaScript](./code/350.js)|
@@ -56,6 +55,7 @@
 | 009  | [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)  | Easy | JavaScript(./code/107.js)|
 | 010  | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  | Medium | JavaScript(./code/103.js)|
 | 011  | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)  | Medium | JavaScript(./code/199.js)|
+| 012  | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)  | Hard | [JavaScript](./code/239.js)
 | Binary Tree and Recursion  | 二叉树和递归  |  | 
 | 001  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | Easy | JavaScript(./code/104.js)|
 | 002  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)  | Easy | JavaScript(./code/111.js)|
