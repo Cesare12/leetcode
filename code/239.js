@@ -49,3 +49,21 @@ var maxSlidingWindow = function (nums, k) {
     return res
 };
 
+var maxSlidingWindow = function (nums, k) {
+ if(k===1) return nums;
+ const q = [];
+ for(let i=0;i<k;i++){
+   while(nums[q.slice(-1)] < nums[i] && q.length !== 0){q.pop()}
+   q.push(i);
+ }
+ 
+ const res = [nums[q[0]]];
+ const len = nums.length - k;
+ for(let i=1;i<=len;i++){
+   while(nums[q.slice(-1)] < nums[i+k-1] && q.length !== 0){q.pop()}
+   if(q.length<=k) q.push(i+k-1)
+  
+   res.push(nums[q[0]]);
+ }
+ return res
+}
