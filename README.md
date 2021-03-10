@@ -65,7 +65,7 @@
 | 006  | [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  | Medium | JavaScript(./code/222.js)|
 | 007  | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  | Easy | JavaScript(./code/110.js)|
 | Recurion and Backstracking  | 递归和回溯  |  | 
-| 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | JavaScript(./code/46.js)|
+| 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [JavaScript](./code/46.js)|
 | 001  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  | Medium | JavaScript(./code/47.js)|
 | 003  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)| [Python](./code/77.py)
 | 004  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [JavaScript](./code/39.js)| [Python](./code/39.py)
