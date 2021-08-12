@@ -4,12 +4,12 @@
 
 他是用C++做的，这里用JavaScript实现。
 
-|  | Problems | Difficulty | Solution ||
-|----|----------|-----------|------|------|
+|  | Problems | Difficulty | Solution |||
+|----|----------|-----------|------|------|------|
 | Array  | 数组  |  | 
 | 001  | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy | [JavaScript](./code/283.js)
 | 002  | [27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy | [JavaScript](./code/27.js)
-| 003  | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy | [JavaScript](./code/26.js)
+| 003  | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy | [JavaScript](./code/26.js)||[Rust](./code/26.rs)
 | 004  | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | Medium | [JavaScript](./code/80.js)
 | 005  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)  | Medium | [JavaScript](./code/75.js)
 | 006  | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  | Easy | [JavaScript](./code/88.js)
