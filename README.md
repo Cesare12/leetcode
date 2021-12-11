@@ -20,7 +20,7 @@
 | 011  | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  | Easy | [JavaScript](./code/345.js)
 | 012  | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | Medium | [JavaScript](./code/11.js)
 | 013  | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  | Medium | [JavaScript](./code/209.js)
-| 014  | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | Medium | [JavaScript](./code/3.js)
+| 014  | [3. Longest Substring Without <br>Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | Medium | [JavaScript](./code/3.js)
 | 015  | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | Medium | [JavaScript](./code/438.js)
 | 016  | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  | Hard | [JavaScript](./code/76.js)
 | Hash Table  | 查找表  |  | 
@@ -43,7 +43,7 @@
 | 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | [JavaScript](./code/217.js)|
 | 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | [JavaScript](./code/220.js)|
 | Linked <br> List  | 链表  |  | 
-| 001  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | Easy |  | | |([C](./code/1.js))|
+| 001  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | Easy |  | | |[C](./code/206.js)|
 | Stack <br> Queue  | 栈<br>队列  |  | 
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [JavaScript](./code/20.js)|
 | 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | [JavaScript](./code/150.js)|
