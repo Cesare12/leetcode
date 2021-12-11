@@ -4,8 +4,8 @@
 
 他是用C++做的，这里用JavaScript实现。
 
-|  | Problems | Difficulty | Solution |||
-|----|----------|-----------|------|------|------|
+|    | Problems | Difficulty| Solution |      |      |      |
+|----|----------|-----------|----------|------|------|------|
 | Array  | 数组  |  | 
 | 001  | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy | [JavaScript](./code/283.js)|[Python](./code/283.py)
 | 002  | [27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy | [JavaScript](./code/27.js)|[Python](./code/27.py)
@@ -43,7 +43,7 @@
 | 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | [JavaScript](./code/217.js)|
 | 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | [JavaScript](./code/220.js)|
 | Linked <br> List  | 链表  |  | 
-| 001  | [1. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | Easy |  | | |([C](./code/1.js))|
+| 001  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | Easy |  | | |([C](./code/1.js))|
 | Stack <br> Queue  | 栈<br>队列  |  | 
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [JavaScript](./code/20.js)|
 | 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | [JavaScript](./code/150.js)|
