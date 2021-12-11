@@ -42,8 +42,9 @@
 | 016  | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)  | Easy | [JavaScript](./code/219.js)|
 | 017  | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | Easy | [JavaScript](./code/217.js)|
 | 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | [JavaScript](./code/220.js)|
-| Linked List  | 链表  |  | 
-| Stack and Queue  | 栈 队列  |  | 
+| Linked <br> List  | 链表  |  | 
+| 001  | [1. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | Easy |  | | |([C](./code/1.js))|
+| Stack <br> Queue  | 栈<br>队列  |  | 
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [JavaScript](./code/20.js)|
 | 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | [JavaScript](./code/150.js)|
 | 003  | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path//)  | Medium | [JavaScript](./code/71.js)|
@@ -56,7 +57,7 @@
 | 010  | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  | Medium | JavaScript|
 | 011  | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)  | Medium | JavaScript|
 | 012  | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)  | Hard | [JavaScript](./code/239.js)
-| Binary Tree and Recursion  | 二叉树和递归  |  | 
+| Binary Tree <br> Recursion  | 二叉树<br>递归  |  | 
 | 001  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | Easy | JavaScript|
 | 002  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)  | Easy | JavaScript|
 | 003  | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  | Easy | JavaScript|
@@ -64,7 +65,7 @@
 | 005  | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  | Easy | JavaScript|
 | 006  | [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  | Medium | JavaScript|
 | 007  | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  | Easy | JavaScript|
-| Recurion and Backstracking  | 递归和回溯  |  | 
+| Recurion <br> Backstracking  | 递归<br>回溯  |  | 
 | 001  | [46. 全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [JavaScript](./code/46.js)|
 | 001  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  | Medium | JavaScript|
 | 003  | [77. 组合](https://leetcode-cn.com/problems/combinations/)  | Medium | [JavaScript](./code/77.js)| [Python](./code/77.py)
@@ -78,12 +79,12 @@
 | 011  | [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  | Medium | JavaScript|
 | 012  | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | Medium | JavaScript|
 | 013  | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)  | Hard | JavaScript|
-| Dynamic Programming  | 动态规划  |  | 
+| Dynamic <br> Programming  | 动态规划  |  | 
 | 001  | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)  | Medium | JavaScript
 | 002  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | Medium | JavaScript
 | 003  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)  | Medium | JavaScript
 | 004  | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)  | Medium | JavaScript
 | 005  | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  | Medium | JavaScript
-| Greedy Algorithms  | 贪心算法  |  | 
+| Greedy <br> Algorithms  | 贪心算法  |  | 
 | 001  | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)  | Easy | JavaScript
 | 002  | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  | Easy | JavaScript
