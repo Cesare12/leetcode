@@ -43,6 +43,7 @@
 | 018  | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)  | Medium | [JavaScript](./code/220.js)|
 | Linked <br> List  | 链表  |  | 
 | 001  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | Easy |  | | |[C](./code/206.c)|
+| 002  | 测试函数 <br> test function |  |  | | |[C](./code/test.c)|
 | Stack <br> Queue  | 栈<br>队列  |  | 
 | 001  | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [JavaScript](./code/20.js)|
 | 002  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | Medium | [JavaScript](./code/150.js)|
